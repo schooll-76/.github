@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-<h1><a href="https://lesson3.guru">CLICK TO PLAY GAME</h1>
+<h1><a href="https://lesson2.guru">CLICK TO PLAY GAME</h1>
 <HR>---
 <H1><a href="https://lessons1.guru">CLICK 2 PLAY UNB GAMES</a></H1>
 <HR>---
 
-<a href="https://lessons1.guru"><img src="https://clearcache.store/games.png"></a>
+<a href="https://lessons-1.site/"><img src="https://clearcache.store/games.png"></a>
 
 **Unblocked Games 76: Why Everyone's Talking About It**
 
